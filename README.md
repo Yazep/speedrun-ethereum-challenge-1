@@ -1,6 +1,6 @@
 # Decentralized Staking App Challenge Solution
 
-git init This challenge was an exciting journey into Ethereum development, focusing on creating a decentralized application (Dapp) that enables users to stake ETH collaboratively. The task involved building a `Staker.sol` contract to collect ETH, tracking balances, and interacting with an `ExampleExternalContract` based on the collective staking outcome.
+This challenge was an exciting journey into Ethereum development, focusing on creating a decentralized application (Dapp) that enables users to stake ETH collaboratively. The task involved building a `Staker.sol` contract to collect ETH, tracking balances, and interacting with an `ExampleExternalContract` based on the collective staking outcome.
 
 ![Challenge Overview](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/a620999a-a1ff-462d-9ae3-5b49ab0e023a)
 
